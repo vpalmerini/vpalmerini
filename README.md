@@ -28,4 +28,5 @@ Recently, I have started to code a little bit with Go and TypeScript :rocket: If
 
 ### How to reach me 📫
 - [![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/victorpalmerini/)
+- [![](https://img.shields.io/badge/-StackOverflow-informational?style=flat&logo=stackoverflow&color=222)](https://stackoverflow.com/users/11933925/vpalmerini)
 - ![](https://img.shields.io/badge/-victorpalmerini@gmail.com-informational?style=flat&logo=gmail&color=fff)
