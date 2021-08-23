@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a software engineer and I truly believe in the power of technology and how it can change lives. I'm also a open-source and Linux enthusiast :)
+I'm a software engineer and I truly believe in the power of technology and how it can change lives. I'm also an open-source and Linux enthusiast :)
 
 ### What I have a good knowledge :octocat:
 
